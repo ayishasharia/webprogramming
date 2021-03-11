@@ -1,0 +1,22 @@
+body{
+	background-color: pink;
+}
+
+h2{
+	color: red;
+	font-size: 50px;
+}
+
+hr{
+	border: 2px solid green;
+}
+
+p{
+	color: blue;
+	font-size: 20px;
+}
+
+a{
+	font-size: 20px;
+	
+}
