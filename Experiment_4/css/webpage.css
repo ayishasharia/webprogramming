@@ -1,0 +1,70 @@
+body{
+	background-color: lightblue;
+}
+
+div#Top a{
+	font-size: 30px;
+	color: blue;
+}
+
+h1{
+	color: green;
+}
+
+h2{
+	color: blue;
+}
+
+p{
+	font-size: 20px;
+}
+
+dl{
+	font-size: 20px;
+}
+
+dl dt{
+	color: red;
+}
+
+button{
+	color: white;
+	background: green;
+	font-size: 15px;
+	padding: 10px 20px;
+}
+
+img{
+	margin: 25px 30px 0 0;
+}
+
+p.one{
+	background-color: pink;
+	padding: 20px 0;
+}
+
+div.first{
+	border: 5px solid yellow;
+	background-color: white;
+	margin-bottom: 20px;
+}
+
+div.first h1{
+	color: violet;
+
+}
+
+div.second{
+	border: 5px solid red;
+	background-color: white;
+}
+
+div.second h1{
+	color: orange;
+}
+
+div#bottom a{
+	font-size: 30px;
+	color: blue;
+
+}
