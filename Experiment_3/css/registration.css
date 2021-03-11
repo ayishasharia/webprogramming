@@ -1,0 +1,26 @@
+body{
+	
+}
+
+div{
+	background-color: violet;
+	margin: 50px 90px;
+	padding: 40px 0;	
+}
+
+table.one{
+	border-spacing: 15px; 
+}
+
+button{
+	padding: 10px 26px;
+	color: white;
+	margin: 16px 16px 0 0;
+	font-size: 14px;
+	background-color: green;
+	cursor: pointer;
+}
+
+a{
+	font-size: 18px;
+}
